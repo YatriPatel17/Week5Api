@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Week_5\\Week5Api\\Week5Api.csproj": {}
+    "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Lab_3\\Week5Api\\Week5Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Week_5\\Week5Api\\Week5Api.csproj": {
+    "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Lab_3\\Week5Api\\Week5Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Week_5\\Week5Api\\Week5Api.csproj",
+        "projectUniqueName": "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Lab_3\\Week5Api\\Week5Api.csproj",
         "projectName": "Week5Api",
-        "projectPath": "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Week_5\\Week5Api\\Week5Api.csproj",
+        "projectPath": "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Lab_3\\Week5Api\\Week5Api.csproj",
         "packagesPath": "C:\\Users\\yatri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Week_5\\Week5Api\\obj\\",
+        "outputPath": "C:\\Users\\yatri\\Desktop\\Sem 6\\PROG3176 - Programming Distributed Application Develipment\\Lab_3\\Week5Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yatri\\AppData\\Roaming\\NuGet\\NuGet.Config",

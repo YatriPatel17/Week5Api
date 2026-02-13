@@ -28,7 +28,7 @@ public class Program
         app.UseAuthorization();
         app.MapControllers();
 
-        app.MapGet("/hello", () => "Hello from your Azure API running .NET 9");
+        app.MapGet("/hello", () => "Your API has been updated through CI and CD");
 
         app.Run();
     }
